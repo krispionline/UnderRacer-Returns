@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "pth_ruins1",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "free races",
-    "path": "folders/Paths/free races.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1424.0,"y":464.0,},
     {"speed":100.0,"x":1616.0,"y":480.0,},
@@ -70,5 +67,8 @@
     {"speed":100.0,"x":976.0,"y":608.0,},
     {"speed":100.0,"x":1072.0,"y":464.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "free races",
+    "path": "folders/Paths/free races.yy",
+  },
 }

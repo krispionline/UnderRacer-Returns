@@ -1,2 +1,0 @@
-can_atk=true
-

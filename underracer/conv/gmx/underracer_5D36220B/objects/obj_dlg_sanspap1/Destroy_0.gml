@@ -1,2 +1,0 @@
-global.dialogue=false
-

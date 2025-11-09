@@ -1,1 +1,0 @@
-action_another_room(rm_selection_menu_ut1);

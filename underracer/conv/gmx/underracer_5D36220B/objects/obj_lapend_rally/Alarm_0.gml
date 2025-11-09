@@ -1,2 +1,0 @@
-can_start=true
-

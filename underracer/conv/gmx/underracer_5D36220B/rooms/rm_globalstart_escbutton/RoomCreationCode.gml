@@ -1,1 +1,0 @@
-sound_2loop(global.snd_menu)

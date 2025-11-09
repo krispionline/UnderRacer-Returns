@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "pth_snowdrakerally1",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "campaign",
-    "path": "folders/Paths/campaign.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1360.0,"y":320.0,},
     {"speed":100.0,"x":1872.0,"y":336.0,},
@@ -31,5 +28,8 @@
     {"speed":100.0,"x":736.0,"y":240.0,},
     {"speed":100.0,"x":1024.0,"y":240.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "campaign",
+    "path": "folders/Paths/campaign.yy",
+  },
 }

@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "pth_cmpn_torielbattle",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "campaign",
-    "path": "folders/Paths/campaign.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1376.0,"y":720.0,},
     {"speed":100.0,"x":1584.0,"y":720.0,},
@@ -66,5 +63,8 @@
     {"speed":100.0,"x":1072.0,"y":672.0,},
     {"speed":100.0,"x":1168.0,"y":720.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "campaign",
+    "path": "folders/Paths/campaign.yy",
+  },
 }

@@ -1,1 +1,0 @@
-global.roomname="Ruined Ruins"

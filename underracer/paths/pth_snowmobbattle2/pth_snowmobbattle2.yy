@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "pth_snowmobbattle2",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "campaign",
-    "path": "folders/Paths/campaign.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1024.0,"y":240.0,},
     {"speed":100.0,"x":1232.0,"y":272.0,},
@@ -68,5 +65,8 @@
     {"speed":100.0,"x":544.0,"y":272.0,},
     {"speed":100.0,"x":720.0,"y":272.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "campaign",
+    "path": "folders/Paths/campaign.yy",
+  },
 }

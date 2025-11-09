@@ -1,1 +1,0 @@
-action_another_room(rm_sandbox_ruins1);

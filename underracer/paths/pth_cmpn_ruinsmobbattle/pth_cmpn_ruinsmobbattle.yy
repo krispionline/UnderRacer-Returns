@@ -2,12 +2,9 @@
   "resourceType": "GMPath",
   "resourceVersion": "1.0",
   "name": "pth_cmpn_ruinsmobbattle",
-  "closed": true,
   "kind": 1,
-  "parent": {
-    "name": "campaign",
-    "path": "folders/Paths/campaign.yy",
-  },
+  "closed": true,
+  "precision": 4,
   "points": [
     {"speed":100.0,"x":1616.0,"y":288.0,},
     {"speed":100.0,"x":1856.0,"y":288.0,},
@@ -60,5 +57,8 @@
     {"speed":100.0,"x":1024.0,"y":288.0,},
     {"speed":100.0,"x":1488.0,"y":288.0,},
   ],
-  "precision": 4,
+  "parent": {
+    "name": "campaign",
+    "path": "folders/Paths/campaign.yy",
+  },
 }

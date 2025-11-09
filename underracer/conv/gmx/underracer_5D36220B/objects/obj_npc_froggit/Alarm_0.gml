@@ -1,2 +1,0 @@
-modelsprite=spr_npc_froggit_back
-
